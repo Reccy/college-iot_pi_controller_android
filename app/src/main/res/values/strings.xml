@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IotPiControllerAndroid</string>
+    <string name="title">Pi Controller</string>
 </resources>
